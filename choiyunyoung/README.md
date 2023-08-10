@@ -1,4 +1,6 @@
-##
+### 2023-08-11
+1. how-to-write...makrtdown.md 추가
+2. 
 ### 2023-08-10
 1. Jetbrain
 2. JDK 17+, kotlin, python
