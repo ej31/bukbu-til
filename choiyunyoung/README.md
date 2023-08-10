@@ -1,5 +1,5 @@
 ### 2023-08-11
-1. how-to-write...makrtdown.md 추가
+1. how-to-write...makrtdown.md(./how-to-write-by-markdown.md) 추가
 2. 
 ### 2023-08-10
 1. Jetbrain
