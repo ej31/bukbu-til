@@ -1,27 +1,5 @@
-### 2023-08-11
-1. [how-to-write...makrtdown.md](https://github.com/ej31/bukbu-til/tree/main/choiyunyoung/how-to-write-by-markdown.md) 추가
-2. 
-### 2023-08-10
-1. Jetbrain
-2. JDK 17+, kotlin, python
-    1. java8 deprecated (jdk11도 아마)
-    2. kotlin이 미래?
-    3. python으로 해도 된다.
-3. Github, 칸반은 X(개인으로하기엔오바)
-4. AWS ?, GCP ?
-5. Kubernates X : 비쌈
-6. MYSQL
-    1. datagrip(jetbrain) : 코드에 매핑된다.
-7. AMQP ?, RTMP/HLS ?
-    1. AMQP는 iot 아닌가?
-    2. RTMP/HLS는 동영상스트리밍인데?
-    3. MQTT랑은 다르다.
-8. Spring boot
-    1. 2.x, 3.x
-    2. JPA
-    3. QueryDsl → ORM 문제점을 해결해준다.
-    4. JDBC
-    5. Thymeleaf : jsp는 나락이니 이걸 써라
-    6. React?
-        1.  VirtualDom은 벡엔드 입장에선?
-9. NoSql?
+### Til by cyy
+## [how-to-write...makrtdown.md](https://github.com/ej31/bukbu-til/tree/main/choiyunyoung/how-to-write-by-markdown.md)
+
+## [2023-08-11](#til_2023-08-11.md)
+## [2023-08-10](#til_2023-08-10.md)
