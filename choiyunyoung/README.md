@@ -1,8 +1,10 @@
 ## Til by cyy
-### [how-to-write...makrtdown.md](how-to-write-by-markdown.md) : [by ihoneymon](https://gist.github.com/ihoneymon)  
-### [Markdown guide](https://www.markdownguide.org/)
-
++ ### [how-to-write...makrtdown.md](how-to-write-by-markdown.md) : [by ihoneymon](https://gist.github.com/ihoneymon)  
++ ### [Markdown guide](https://www.markdownguide.org/)
 ## 1차 메모 $\Rightarrow$ 2차 정리
+- [Naver Cloud work (08-28 ~ 08-25)](ncloud_summary.md)
+- [til_2023-08-20s.md](subject/til_2023-08-20s.md)
+- [til_2023-08-19s.md](subject/til_2023-08-19s.md)
 - [til_2023-08-18s.md](subject/til_2023-08-18s.md)
 - [til_2023-08-17s.md](subject/til_2023-08-17s.md)
 - [til_2023-08-16s.md](subject/til_2023-08-16s.md)

@@ -1,15 +1,46 @@
-## 2023-08-18
 
 ### Naver Cloud 실습  
-   1. VPC → NACL → subnet → init script → web → storage → image
-   2. LB : Application LB        
-   3. AutoScaling
-   4. CDN
-   5.   
-   - 메모
-   $\Rightarrow$  
-     - http://101.79.14.34/ `LB까지 잘됨, 강사님을 비롯 다들 init스크립트가 잘못 된듯하다. 오전에 미리 해둬서 그런가 문제없이 되는것도 문제인데..`  
-     
+#### 2023-08-18
+1. VPC → NACL → subnet → init script → web → storage → image
+2. LB : Application LB        
+3. AutoScaling
+4. CDN
+5. 메모
+   1. http://101.79.14.34  `LB까지 잘됨, 강사님을 비롯 다들 init스크립트가 잘못 된듯하다. 오전에 미리 해둬서 그런가 문제없이 되는것도 문제인데..`  
+#### 2023-08-19
+6. 강의 내용 복습
+7. ssh 접속 설정 org1, org2
+8. ssh : `allow 해야 집에서 가능`  
+    ```
+    ssh-keygen -t rsa -b 4096 -f auth_keys
+    cp auth_keys authorized_keys
+    /etc/ssh/sshd_config
+    RSAAuthentication yes
+    PubkeyAuthentication yes
+    AuthorizedKeysFile      .ssh/authorized_keys
+    systemctl restart sshd.service
+    ```
+#### 2023-08-20
+9. mysql 설정 및 php 수정  
+   1.  ssh 접속 설정 org1, org2
+   2.  php에서 접근시 access deny 나와서 acg랑 서브넷 설정 확인
+   3.  apache 로그 확인하며 작업 : tail
+   4.  db를 지우고 재생성, 자동생성 db-acg에서 inbound 소스 lba1-acg 오타인듯
+   5.  mysql 접속 확인 : private url 내부에서만 가능하다
+   6.  웹에서 DB Server Configuration시 unable to open file chmod chown
+       1.  웹에서 테이블 생성과 dummy데이터 확인
+   7.  웹에서 DB Action시 오류
+       1.  org1, org2 따로 수정 해야 되네? ftp로 복붙
+   8.  전체적으로 php파일의 수정이 필요한듯        
+10. nas 마운트후 웹루트 파일 백업 : org1, org2 이걸로 복사하면 될것을 ftp는 성급했다
+11. cifs 
+    1.  무슨 파일시스템이였는데 삼바 common internet file system
+    2.  nas 볼륨생성 cifs
+    3.  window server 생성 223.130.129.170
+    4.  내컴 원격 -> windows server -> nas 연결
+    5.  acl <- win 추가
+12. 전체적으로 설정을 다시 한번 복습한셈이 되었다  
+      
 ### Index
 ---
 - ncloud
