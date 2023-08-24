@@ -2,6 +2,8 @@
 + ### [how-to-write...makrtdown.md](how-to-write-by-markdown.md) : [by ihoneymon](https://gist.github.com/ihoneymon)  
 + ### [Markdown guide](https://www.markdownguide.org/)
 ## 1차 메모 $\Rightarrow$ 2차 정리
+- `결 2023-08-23`
+- [til_2023-08-22s.md](subject/til_2023-08-22s.md)
 - [til_2023-08-21s.md](subject/til_2023-08-21s.md)
 - [til_2023-08-20s.md](subject/til_2023-08-20s.md)
 - [til_2023-08-19s.md](subject/til_2023-08-19s.md)
