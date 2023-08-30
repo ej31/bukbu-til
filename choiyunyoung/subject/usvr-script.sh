@@ -4,7 +4,7 @@ echo "PASSWORD" | sudo -kS apt-get update
 sudo apt-get install libncurses5 apache2 apache2-utils -y
 sleep 15
 cd /var/www/html
-wget https://kr.object.ncloudstorage.com/ncp manual/ncp/ncp lab.tgz
+wget https://kr.object.ncloudstorage.com/ncp-manual/ncp/ncp-lab.tgz
 sleep 10
 tar xvfz ncp-lab.tgz
 cat phpadd >> /etc/httpd/conf/httpd.conf
