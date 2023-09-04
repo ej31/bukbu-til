@@ -2,7 +2,7 @@
 + ### [how-to-write...makrtdown.md](how-to-write-by-markdown.md) : [by ihoneymon](https://gist.github.com/ihoneymon)  
 + ### [Markdown guide](https://www.markdownguide.org/)
 ## 1차 메모 $\Rightarrow$ 2차 정리
-- `결 2023-09-04`
+- `병 2023-09-04`
 - [til_2023-09-01s.md](subject/til_2023-09-01s.md)
 - [til_2023-08-31s.md](subject/til_2023-08-31s.md)
 - [til_2023-08-30s.md](subject/til_2023-08-30s.md)
@@ -12,7 +12,7 @@
 - [til_2023-08-26s.md](subject/til_2023-08-26s.md)
 - [til_2023-08-25s.md](subject/til_2023-08-25s.md)
 - [til_2023-08-24s.md](subject/til_2023-08-24s.md)
-- `결 2023-08-23`
+- `병 2023-08-23`
 - [til_2023-08-22s.md](subject/til_2023-08-22s.md)
 - [til_2023-08-21s.md](subject/til_2023-08-21s.md)
 - [til_2023-08-20s.md](subject/til_2023-08-20s.md)
